@@ -1,0 +1,88 @@
+#upper{
+	height: 70px;
+	border: 1px solid black;
+	text-align: center;
+	border-radius: 10px;
+	background-color: #d6d6c2;
+}
+
+#login{
+	float: left;
+	height: 500px;
+	width: 250px;
+	text-align: center;
+	border-radius: 10px;
+
+}
+
+#main{
+	height: 500px;
+	
+	text-align: center;
+	border-radius: 10px;
+	
+}
+
+#table{
+	margin: 10px 0px 0px 0px;
+}
+
+#home{
+	margin: 20px;
+	height: 30px;
+	width: 200px;
+}
+
+#button{
+	margin: 20px 0px 0px 0px;
+	height: 30px;
+	width: 100px;
+}
+
+#check{
+	border: 200px;
+	margin: 100px 0px 0px 400px;
+}
+
+#select{
+	width: 200px;
+}
+
+#button1{
+	margin: 30px;
+	width: 200px;
+}
+
+#tr{
+	padding: 0px 0px 50px 0px;
+}
+
+#id{
+	
+}
+
+#siguptr{
+	padding: 0px 0px 20px 0px;
+}
+
+#sigup{
+	height: 30px;
+	width: 100px;
+}
+
+#sig{
+	padding: 0px 0px 0px 50px;
+}
+
+#reservation{
+	border: 200px;
+	margin: 100px 0px 0px 400px;
+}
+
+#startTime{
+	width: 200px;
+}
+
+#endTime{
+	width: 200px;
+}
